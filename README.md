@@ -1,3 +1,7 @@
+I like to play around with lots of different characters when I play fighting games.
+
+This repo is to test Docusaurus as a tool on the second screen to help my memory.
+
 # Website
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.

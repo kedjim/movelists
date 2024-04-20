@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmovelists=self.webpackChunkmovelists||[]).push([[802],{3915:s=>{s.exports=JSON.parse('{"label":"facebook","permalink":"/movelists/blog/tags/facebook","allTagsPath":"/movelists/blog/tags","count":1}')}}]);

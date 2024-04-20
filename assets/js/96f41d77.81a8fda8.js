@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmovelists=self.webpackChunkmovelists||[]).push([[1653],{5459:s=>{s.exports=JSON.parse('{"label":"hello","permalink":"/movelists/blog/tags/hello","allTagsPath":"/movelists/blog/tags","count":2}')}}]);

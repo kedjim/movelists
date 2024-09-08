@@ -1,10 +1,10 @@
 # Manon
 
 ## Special Moves
-- 63214+P - Manège Doré  (cmd grab)
+- 63214+P - Manège Doré  (cmd grab) L > H is range/startup
 - 236K - Rond Point
 - 214K - Dégagé
-- 236P - Renversé (hit grab)
+- 236P - Renversé (hit grab) (projectile invul)
   - (hold to feint)
   - K - Grand Fouetté (kick instead)
 

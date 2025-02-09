@@ -1,6 +1,6 @@
 # Juri
 
-# Special Moves
+## Special Moves
 - 214 + K Fuhajin
 - (stocks let you chain LK/MK/HK out of each other)
   - 236 + LK Saihasho (fireball)
